@@ -1,4 +1,5 @@
 # SD-3101 [Wellness Assistant]
+https://github.com/user-attachments/assets/518adaa0-266f-40d4-b3ae-e11df100872e
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -798,5 +799,5 @@ For more information on this, and how to apply and follow the GNU AGPL, see
 <http://www.gnu.org/licenses/>.
 
 
-https://github.com/user-attachments/assets/518adaa0-266f-40d4-b3ae-e11df100872e
+
 
