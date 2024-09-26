@@ -1,6 +1,4 @@
-# SD-3101 [Project Title]
-
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Project+Banner+Placeholder)
+# SD-3101 [Wellness Assistant]
 
 ## Table of Contents
 - [Introduction](#introduction)
