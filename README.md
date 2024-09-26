@@ -1,4 +1,4 @@
-# SD-3101 [Wellness Assistant]
+# SD-3101 Wellness Assistant
 https://github.com/user-attachments/assets/518adaa0-266f-40d4-b3ae-e11df100872e
 
 ## Table of Contents
@@ -97,8 +97,8 @@ Provide detailed instructions on how to use the project after setup:
 
 List all the team members involved in the project. Include their roles and responsibilities:
 
-- **[Ranchie G. Cosio]**: Lead Developer, Backend Developer
-- **[Kathleen Lizeth D. Abanto]**: Frontend Developer, UI/UX Designer
+- **Ranchie G. Cosio**: Lead Developer, Backend Developer
+- **Kathleen Lizeth D. Abanto**: Frontend Developer, UI/UX Designer
 - **Gerald Villaran**: Project Manager, Tester
 
 ## Project Timeline
@@ -132,7 +132,7 @@ Outline the project timeline, including milestones or deliverables. Example:
 
 Acknowledge any resources, mentors, or external tools that helped in completing the project.
 
-This project was built from [Original Project Name](https://github.com/username/original-repo), created by [Original Author's Name]. You can view the original repository [here](https://github.com/username/original-repo).
+This project was built from ALL THINGS FITNESS(https://github.com/ryan11yuan/AllThingsFitness.git)), created by ryan11yuan. You can view the original repository (https://github.com/ryan11yuan/AllThingsFitness.git)).
 
 ## License
 
