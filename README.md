@@ -53,20 +53,12 @@ Step-by-step instructions for setting up the project locally.
    ```bash
    git clone https://github.com/ryan11yuan/AllThingsFitness.git
    ```
-2. **Install dependencies:**
-	- If using `npm`:
+   ```
+2. **Configure environment variables (if any)**: Provide instructions for setting up .env files or any other required configurations.
    ```bash
    git clone https://github.com/ryan11yuan/AllThingsFitness.git
    ```
-   - If using `pip` (for Python projects):
-   ```bash
-   git clone https://github.com/ryan11yuan/AllThingsFitness.git
-   ```
-3. **Configure environment variables (if any)**: Provide instructions for setting up .env files or any other required configurations.
-   ```bash
-   git clone https://github.com/ryan11yuan/AllThingsFitness.git
-   ```
-4. **Run the project:**
+3. **Run the project:**
    - For web projects: just download the file and open the index.html in the browser
   
    
