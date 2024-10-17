@@ -80,8 +80,9 @@ Provide detailed instructions on how to use the project after setup:
 
 ## Project Structure
 
-```Allthingsfined
+```
 .
+├──Allthingsfined
 ├── css/
 │   ├── guide.css/
 │   ├── layered-waves-haikei.svg/
