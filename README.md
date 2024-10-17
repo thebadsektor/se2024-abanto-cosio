@@ -80,16 +80,21 @@ Provide detailed instructions on how to use the project after setup:
 
 ## Project Structure
 
-```bash
+```Allthingsfined
 .
-├── src/
-│   ├── components/
-│   ├── pages/
-│   └── utils/
-├── public/
-├── tests/
-├── .env.example
-├── package.json
+├── css/
+│   ├── guide.css/
+│   ├── layered-waves-haikei.svg/
+│   └── style.css/
+├── images/
+│   ├──Blue Modern Fitness Logo.png
+│   └──bg.jpg
+├── js
+│    ├──guide.js
+│    └──script.js
+├── guide.html
+├── index.html
+├── logo.png
 └── README.md
 ```
 
@@ -105,7 +110,20 @@ List all the team members involved in the project. Include their roles and respo
 
 Outline the project timeline, including milestones or deliverables. Example:
 
-- **Week 1-2**: Research and project planning.
+- **Week 1-2**: Collaborative Brainstorming for Feature Development
+-08/17/2024
+-https://www.google.com/url?    sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3D1TF_gqFCzKU&ved=2ahUKEwjihd2nquCIAxX5nq8BHWPmJZMQwqsBegQIEhAE&usg=AOvVaw1PlG75AJGbIVCtQ613MR0-
+-Proposes Features
+-Dashboard
+-Device Management
+-Alert Notifications
+-Usage History
+-System Control
+-Maintenance Requests
+-User Profile
+-System Settings
+-Reporting and Analytics
+-User Management
 - **Week 3-5**: Design and setup.
 - **Week 6-10**: Implementation.
 - **Week 11-12**: Testing and debugging.
